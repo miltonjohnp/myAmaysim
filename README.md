@@ -17,9 +17,9 @@ Setup Test Environment:
 Executing the Automation Script:
 1. Execute the MyAmaySim_TestExecution.rb
    - go to cmd prompt
-   - execute the command 'ruby MyAmaySim_Test_Execution.rb'
+   - execute the command 'ruby MyAmaySim_TestExecution.rb'
    
-* Note: Please take note to include or uncomment all test cases you want to execute. Refer to MyAmaySim_TestCases.rb for the list of test cases
+* Note: Please Include or uncomment all test cases you want to execute. Refer to MyAmaySim_TestCases.rb for the list of test cases
 
 Release Notes:
 1. MyAmaySim_SiteElements.rb
