@@ -15,6 +15,7 @@ B. Setup Test Environment:
    - go to cmd prompt
    - enter the following command 'gem install selenium-webdriver'
    
+   
 C. Executing the Automation Script:
 1. Execute the MyAmaySim_TestExecution.rb
    - go to cmd prompt
