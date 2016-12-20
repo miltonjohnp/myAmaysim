@@ -1,5 +1,5 @@
-# myAmaysim
-Techinical Assesment for myAmaysim of Applicant, Milton John Parcia
+*** Revision History ***
+Version 1.00 - Techinical Assesment of Applicant, Milton John Parcia for myAmaysim 
 
 
 Introduction:
