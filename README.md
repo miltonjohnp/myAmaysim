@@ -14,6 +14,8 @@ B. Setup Test Environment:
 2. After Successfully installing ruby, install Selenium WebDriver
    - go to cmd prompt
    - enter the following command 'gem install selenium-webdriver'
+3. Install chromedriver:
+. http://chromedriver.storage.googleapis.com/2.24/chromedriver_win32.zip
    
    
 C. Executing the Automation Script:
